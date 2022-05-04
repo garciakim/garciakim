@@ -3,6 +3,7 @@
 - 🌱 I’m re-learning HTML5, CSS3 and JavaScript. So many things happened here and I'm finally loving CSS3
 - 📫 You guys can reach me on the info that I put on the left side.
 - ⚡ My R&R involves console gaming or Gunpla building on weekends. 
+- ℹ️ Customized Avatar. Template came from <a href="https://picrew.me/search?q%3At=russa&s%3At=3&s=1" target="_blank">@Russa444</a>
 
 <b>Nice to meet you. Thanks for checking out! Much appreciated 💗</b>
 
